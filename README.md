@@ -1,4 +1,6 @@
-# CSP-Bypass-Root-Me
+# Challenge Name: CSP Bypass - Inline code
+# Challenge Url: https://www.root-me.org/en/Challenges/Web-Client/CSP-Bypass-Inline-code#validation_challenge
+
 Code Exploitation For CSP Bypass Root Me challenge  
 
 1. Replace webhook site url with Yours *WITHOUT ENTER HTTPS://*
